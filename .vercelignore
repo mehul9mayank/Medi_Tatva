@@ -1,0 +1,8 @@
+node_modules
+.git
+*.log
+.env
+.env.local
+MediTatva/MediTatva-main/meditatva-backend
+.vscode
+.idea
